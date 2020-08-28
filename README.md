@@ -122,7 +122,7 @@ from uniborg.util import admin_cmd
 async def handler(event):
     await event.reply("hey")
 ```
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## learning
 
